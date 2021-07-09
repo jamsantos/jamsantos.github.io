@@ -154,9 +154,19 @@ textarea {
   appearance: none;
 }
 
-#tailwind {
-  height: 80px;
-  width: 80px;
+#logo {
+  height: 70px;
+  width: 70px;
+}
+
+#snow {
+  height: 30px;
+  width: 120px;
+}
+
+#redhat {
+  height: 30px;
+  width: 120px;
 }
 
 /* Basic */
